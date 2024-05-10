@@ -1,4 +1,3 @@
-  
 Le projet comporte au départ 2 branches: la branche main sur laquelle se trouve uniquement la structure de base et se trouvera la version finale.
 Il y a 3 histoires que chacun des membres du projet pourra modifier.
 
@@ -10,28 +9,26 @@ Il y a 3 histoires que chacun des membres du projet pourra modifier.
 5.Effectuer une pull request sur la branche "ecriture" pour fusionner les changements
 
 
-                                                                    
+                                                         __ooooooooo__
+                                                    oOOOOOOOOOOOOOOOOOOOOOo
+                                                oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+                                             oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+                                           oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+                                         oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+                                        oOOOOOOOOOOO*  *OOOOOOOOOOOOOO*  *OOOOOOOOOOOOo
+                                       oOOOOOOOOOOO      OOOOOOOOOOOO      OOOOOOOOOOOOo
+                                       oOOOOOOOOOOOOo  oOOOOOOOOOOOOOOo  oOOOOOOOOOOOOOo
+                                      oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+                                      oOOOO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOo
+                                      oOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOo
+                                       *OOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOO*
+                                       *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*
+                                        *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*
+                                         *OOOOOOo  *OOOOOOOOOOOOOOOOOOOOOOO*  oOOOOOO*
+                                           *OOOOOOOo  *OOOOOOOOOOOOOOOOO*  oOOOOOOO*
+                                             *OOOOOOOOo  *OOOOOOOOOOO*  oOOOOOOOO*      
+                                                *OOOOOOOOo           oOOOOOOOO*      
+                                                    *OOOOOOOOOOOOOOOOOOOOO*          
+                                                         ""ooooooooo""
+                                                         
 
-                                                                 __ooooooooo__
-                                                            oOOOOOOOOOOOOOOOOOOOOOo
-                                                        oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
-                                                     oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
-                                                   oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
-                                                 oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
-                                                oOOOOOOOOOOO*  *OOOOOOOOOOOOOO*  *OOOOOOOOOOOOo
-                                               oOOOOOOOOOOO      OOOOOOOOOOOO      OOOOOOOOOOOOo
-                                               oOOOOOOOOOOOOo  oOOOOOOOOOOOOOOo  oOOOOOOOOOOOOOo
-                                              oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
-                                              oOOOO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOo
-                                              oOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOo
-                                               *OOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOO*
-                                               *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*
-                                                *OOOOOO  *OOOOOOOOOOOOOOOOOOOOOOOOOOO*  OOOOOO*
-                                                 *OOOOOOo  *OOOOOOOOOOOOOOOOOOOOOOO*  oOOOOOO*
-                                                   *OOOOOOOo  *OOOOOOOOOOOOOOOOO*  oOOOOOOO*
-                                                     *OOOOOOOOo  *OOOOOOOOOOO*  oOOOOOOOO*      
-                                                        *OOOOOOOOo           oOOOOOOOO*      
-                                                            *OOOOOOOOOOOOOOOOOOOOO*          
-                                                                 ""ooooooooo""
-
-                                                                 
